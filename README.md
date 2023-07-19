@@ -19,3 +19,6 @@
 ### 매체
 - Discord 사용
 - 가급적 얼굴 켜기?
+
+### 일정
+https://github.com/db-internals-study/db-internals-study/wiki
